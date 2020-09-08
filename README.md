@@ -1,2 +1,2 @@
 # pentesting
-scripts to make the pentesting life slightly easier
+scripts to make pentesting slightly easier
