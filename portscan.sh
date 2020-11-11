@@ -1,5 +1,5 @@
 #!/bin/sh
-read -p "which address do you want to scan? " ip
-echo "scanning $ip"
+read -p "which address do you want to scan? " address
+echo "scanning $address"
 
-nmap -p0- -v -A -T4 $ip
+nmap -p0- -v -A -T4 $address
