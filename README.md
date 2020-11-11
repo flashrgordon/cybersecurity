@@ -3,3 +3,5 @@ Some of these scripts are entirely mine, some belong entirely to others, and som
 
 
 ## portscan.sh
+Simple script which prompts user for a domain or IP address to run nmap with the following settings:
+    nmap -p0- -v -A -T4 $address
