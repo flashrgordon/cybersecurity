@@ -8,9 +8,6 @@ Simple script which prompts user for a domain or IP address to run nmap with the
 
 nmap -p0- -v -A -T4 $address
 
-### linuxenum.sh
-Bash script from @rebootuser to aid with enumeration of linux targets. Please view README.md on https://github.com/rebootuser/LinEnum/blob/master/README.md .
-
 ## Python
 
 ### passwordgenerator.py
