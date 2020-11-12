@@ -42,4 +42,10 @@ This will create a file demo.txt in the working directory with the following con
   01
   02
   ...
+  10
+  11
+  12
+  ...
+  97
+  98
   99
