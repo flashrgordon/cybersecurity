@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# script for enumeration on linux targets
 # script contents thanks to rebootuser @ https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
 
 #################script#################
