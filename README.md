@@ -1,13 +1,16 @@
 # Cybersecurity scripts
 Some of these scripts are entirely mine, some belong entirely to others, and some are a mix of the two. These scripts are stored in this repository for convenience and sharing/collaboration only.
 
+## Shell
 
-## portscan.sh
+### portscan.sh
 Simple script which prompts user for a domain or IP address to run nmap with the following settings:
 
 nmap -p0- -v -A -T4 $address
 
-## passwordgenerator.py
+## Python
+
+### passwordgenerator.py
 Python script that prompts a user for desired password length and requirements, as well as the desired filename for the password list.
 A file is then generated with the entered filename (Be sure to specify file extension here) with every combination of the characters specified by the entered requirements up to the password length entered. For example:
 
