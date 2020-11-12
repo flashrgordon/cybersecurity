@@ -26,14 +26,11 @@ A file is then generated with the entered filename (Be sure to specify file exte
   Enter the file name:
   demo.txt
   
-This will create a file demo.txt in the working directory with the following contents:
+This will create a file demo.txt in the working directory with the following contents, with each number on its own line:
 
   0
-  
   1
-  
   2
-  
   3
   4
   5
