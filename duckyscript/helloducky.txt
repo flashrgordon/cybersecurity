@@ -1,0 +1,17 @@
+DELAY 1000
+GUI r
+DELAY 100
+STRING notepad
+DELAY 100
+ENTER
+DELAY 100
+STRING hello world
+DELAY 100
+ENTER
+STRING *****************************************************
+DELAY 100
+ENTER
+STRING this is an example of how to use the USB rubber ducky
+ENTER
+DELAY 100
+STRING *****************************************************
